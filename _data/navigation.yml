@@ -1,0 +1,52 @@
+# main links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+#  - title: "Projects"
+#    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+  #  url: /resume/  # internal link
+    url: https://niimmiish.github.io/resume1
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+# sidebar for portfolio
+portfolio:
+  - title: "FinReg/RegTech"
+    children:
+      - title: "Sanctions Screening"
+        url: /portfolio/sanctionsscreening/
+      - title: "Transaction Monitoring"
+        url: /portfolio/transactionmonitoring/
+  - title: "GIS"
+    children:
+      - title: "Wildfire Threat"
+        url: /portfolio/wildfirethreat-va/
+      - title: "Food Deserts"
+        url: /portfolio/fooddeserts-sd/
+      - title: "Wind Farm Siting"
+        url: /portfolio/windfarmsiting-va/
+      - title: "Changing Virginia"
+        url: /portfolio/changingva/
+  - title: "Research"
+    children:
+      - title: "Goal Programming and DEA"
+        url: /assets/pdfs/thesis_yjor.pdf/
+  - title: "Viz"
+    children:
+      - title: "Crime in the City"
+        url: https://public.tableau.com/profile/nimish.sheth#!/vizhome/CrimeInTheCapital/Dashboard1
+#      - title: "Crime in the City - 2"  # for testing embedded Tableau link
+#        url: /portfolio/crimeinthecity/
+      - title: "America's Food Deserts"
+        url: https://public.tableau.com/profile/nimish.sheth#!/vizhome/AmericasFoodDeserts/FD-DashBrd
