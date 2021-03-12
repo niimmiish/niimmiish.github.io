@@ -27,7 +27,7 @@ Over the past 18 years I have worked in all aspects of <font color="#c0392b">dat
 
 I am fluent in SQL, have experience with R and Python, and open to learning what I don't know. I have worked with several tools and software but have a bias for open source because of the power of sharing with and learning from the community. 
 
-<img src="{{ "/assets/images/IMG_6409.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/IMG_6409.JPG" | absolute_url }}"
 height="50%" hspace="10" align="center">
 
 In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor, I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #2980b9"} on measuring efficiency of production units using [Data Envelopment Analysis][4]{: style="color: #686de0"}.
