@@ -41,7 +41,7 @@ portfolio:
   - title: "Research"
     children:
       - title: "Goal Programming and DEA"
-        url: /assets/pdfs/thesis_yjor.pdf/
+        url: /assets/pdfs/thesis_yjor.pdf
   - title: "Viz"
     children:
       - title: "Crime in the City"

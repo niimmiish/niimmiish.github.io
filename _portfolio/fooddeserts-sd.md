@@ -99,6 +99,6 @@ Future research could aim to address these issues and others: using accurate res
 - Morton, L.W. and Blanchard, T.C. (2007). “Starved for Access: Life in Rural America’s Food Deserts.” Rural Realities 1 (4): 1-10.
 - Morton, L.W. et al., (2005). “Solving the Problems of Iowa Food Deserts: Food Insecurity and Perceptions of Civic Structure.” Rural Sociology 70 (1): 94-112.
 - Price, M. Mastering ArcGIS, 4th Edition.
-- [ReferenceUSA](www.referenceusa.com). *Accessed November 2009*.
-- [South Dakota Department of Transportation (SDDOT)](https://arcgis.sd.gov/IMS/DOT/DOTweb/Default.spx). *Accessed November 2009*.
+- [ReferenceUSA](https://referencesolutions.data-axle.com). *Accessed November 2009*.
+- [South Dakota Department of Transportation (SDDOT)](https://dot.sd.gov/inside-sddot/forms-publications/maps). *Accessed November 2009*.
 - [U.S. Census Bureau](https://www.census.gov). *Accessed November 2009*.

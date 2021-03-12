@@ -42,5 +42,5 @@ Enjoy browsing and thanks for visiting!
 [1]: https://niimmiish.github.io/resume1
 [2]: {{ site.url }}/portfolio/
 [3]: https://vtechworks.lib.vt.edu/handle/10919/31831
-[4]: (https://en.wikipedia.org/wiki/Data_envelopment_analysis)
+[4]: https://en.wikipedia.org/wiki/Data_envelopment_analysis
 [5]: https://www.instagram.com/nimmoceez
