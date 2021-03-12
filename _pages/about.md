@@ -14,7 +14,7 @@ I live in Northern Virginia, and as an <font color="#c0392b">independent consult
 
 <span style="color: #2980b9; background-color:#ecf0f1">**Data is everywhere. Data touches everything. Data is empowering.**</span>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_7844.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_7844.JPG"
 width="56%" hspace="20" align="right">
 
 Digging into data is called by different names --- <span style="color: ">statistics, data mining, quantitative analysis, data science, machine learning, operations research</span>. But I believe no matter the label and the problem, a critical understanding of business, data, technology, human behavior, and their interaction is essential for implementing meaningful solutions. It's what I do.
