@@ -5,12 +5,11 @@ permalink: /
 header:
   #overlay_color: "#000"
   #overlay_filter: "0.1" 
-  # overlay_filter: rgba(255, 0, 0, 0.5)
+  #overlay_filter: rgba(255, 0, 0, 0.5)
   #overlay_image: /assets/images/unsplash-image-1.jpg
   image: /assets/images/IMG_3035c_DxO.jpg
   caption: "**Badwater**. Photo credit: **Nimish Sheth**"
   show_overlay_excerpt: true
-  tagline: This is a tagline
   actions:
   #  - label: "Download"
   #    url: "test-link"
