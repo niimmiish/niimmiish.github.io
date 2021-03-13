@@ -1,5 +1,5 @@
 ---
-title: "My Portfolio"
+title: " "
 layout: collection
 permalink: /portfolio/
 collection: portfolio
@@ -50,9 +50,9 @@ feature_row:  # these set the images in the Portfolio page
 #    btn_class: "btn--primary"	
 ---
 
-# Those things I do
+# My Portfolio --- those things I do
 
-Here you can look through some of my work. Selected projects are below and links to few others are on the left menu. I present varying levels of detail depending on the nature of the work and client confidentiality concerns and NDAs. The samples show my experience solving data challenges in different domains and with different tools.
+Here you can view some of my work. Selected projects are below and there are links to few others. I present varying levels of detail depending on the nature of the work and client confidentiality concerns and NDAs. These samples show my experience solving data challenges in different domains and with different tools.
 
 The material is intentionally non-technical, focusing on the problem at hand and the solution approach. I provide links to additional content, relevant external sources or references for additional information and background. More details are also available in my [resume][1]{: style="color: #2980b9"}.
 

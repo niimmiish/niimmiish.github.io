@@ -1,12 +1,10 @@
 ---
-title: " "
+title: "About Me"
 layout: single
 permalink: /about/
 author_profile: true
 comments: false
 ---
-
-# About Me
 
 Hi! I am Nimish, data scientist. I help people <font color="#c0392b">make sense of data</font>. I am just a curious data dabbler, eager to understand what data can reveal and guide organizations navigate quantitative and qualitative information for effective use. 
 
