@@ -5,7 +5,7 @@ categories:
   - personal website
 tags:
   - jekyll
-  - GitHub
+  - github
 excerpt: "Why I built a personal website now?"
 ---
 
@@ -49,5 +49,4 @@ Feel free to leave me comments if I have misstated anything or even just feedbac
 
 Happy reading!
 
-**Read Next**: (http://127.0.0.1:4000/mm%20jekyll/PWHT-2-website-components/)
-
+**Read Next**: [What's a static site generator and what to do with it?]({{ site.url }}/mm%20jekyll/PWHT-2-website-components)
