@@ -20,7 +20,7 @@ feature_row:  # these set the images in the Portfolio page
     url: "/portfolio/fooddeserts-sd/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/john-mcarthur-unsplash-1.5ar.jpg
+  - image_path: assets/images/chris-yang-1tnS_BVy9Jk-unsplash.jpg
     alt: "SanctionsScreening."
     title: "Sanctions Screening"
     excerpt: "Validating effectiveness of sanctions screening systems."

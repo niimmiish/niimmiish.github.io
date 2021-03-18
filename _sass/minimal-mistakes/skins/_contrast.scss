@@ -5,7 +5,8 @@
 /* Colors */
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
+/* === $primary-color: #ff0000 !default; === */ /* === COMMENT out default === */
+$primary-color: #0a3d62 !default; /* === CUSTOMIZE primary color for this skin; disable line above which is default color === */
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 /* === $link-color: #0000ff !default; === */ /* === COMMENT out default === */

@@ -525,7 +525,7 @@
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
     /* === @include yiq-contrasted($active-color); === */ /* === COMMENT out default === */
-    @include yiq-contrasted(mix(#fff, #a4b0be, 80%));  /* === CUSTOMIZE: active too menu item ... this entry is not part of default css; replaces above line  === */
+    @include yiq-contrasted(mix(#fff, #a4b0be, 80%));  /* === CUSTOMIZE: active toc menu item ... this entry is not part of default css; replaces above line  === */
 
   }
 }
