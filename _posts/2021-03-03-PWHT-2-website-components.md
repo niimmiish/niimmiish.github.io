@@ -42,12 +42,13 @@ The painful parts (for me) about developing a website are:
 A static site generator simplifies this process with the main advantages being:
 
 - Speed: fast website as it is only reading HTML
-- Security: don't have to worry about server side attacks
 - Simplicity: no database to mangage, only need very basic HTML and CSS knowledge
-- Flexibility: develop and run locally, know exactly how it works
+- Flexibility: develop and build locally, know exactly how it works
 - Versioning: use version control software to track changes to the site, merge content from different authors
 - Ease of use: get started quickly, use templates for repeated tasks (header, footer, etc.), really understand the different pieces of your website, customize look-and-feel without excessive programming
+- Security: don't have to worry about server side attacks
 
+Of course, this is not to say a static site is better than a dynamic site; a dynamic site has its own advantages and can provide more bells and whistles if you need them. But for a personal website that does need interactive and dynamic functionality, static site generators are a great solution.
 
 ## Enter Jekyll, Ruby, and GitHub Pages
 I found out quickly that [Jekyll][] is an extermely popular static site generator. Jekyll is built with the [Ruby](https://www.ruby-lang.org/en/) programming language. Tom Preston-Werner, co-founder of [GitHub](https://github.com), developed Jekyll as an open source program. Jekyll is the engine behind [GitHub Pages][], which allows you to host a site from your GitHub repository. So, you guessed it -- I am going to talk about this trifecta: GitHub Pages, Ruby, and Jekyll. 

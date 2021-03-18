@@ -24,7 +24,7 @@ But with just some introductory web development class I had taken years ago (whi
 A few weeks ago, while looking up something related to GitHub and Ruby (which I knew nothing about), I stumbled upon some blogs talking about the simplicity and attractiveness of using a static site generator for hosting a personal site (for free!) on GitHub pages. Everthing I read checked my requirements for simplicity:
 
 - use of open source components [GitHub Pages](https://pages.github.com/), [Ruby](https://www.ruby-lang.org/en/), [Jekyll](https://jekyllrb.com/)
-- content first with the option to author in [Ruby](https://www.ruby-lang.org/en/) (which I am familiar with because I use it a lot when I work with R)
+- content first with the option to author in [Markdown](https://www.markdownguide.org) (which I am familiar with because I use it a lot when I work with R)
 - very basic knowledge of HTML and CSS needed (I could learn as much as I wanted, if I wanted, as I went along)
 - free hosting on GitHub Pages (I wanted to learn about GitHub Pages anyway)
 - easy and quick to update content
