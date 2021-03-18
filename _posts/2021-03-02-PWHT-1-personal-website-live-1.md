@@ -14,7 +14,7 @@ excerpt: "Why I built a personal website now?"
 > <span style="color: #596275">My thoughts on why I chose to build a personal website using Jekyll (a static site generator and templating tool), Markdown (to author content), and GitHub pages for hosting.</span>
 
 ## Why a personal website?
-Have you wondered about building a personal website? Or Why you would need one? Perhaps to showcase your work. Publish content. Build trust. Be searchable. Share information with potential clients or recruiters. Connect with others (who can find you through your website) anywhere in the world. Simply to have a digital presence and brand.
+Have you wondered about building a personal website? Or why you would need one? Perhaps to showcase your work. Publish content. Build trust. Be searchable. Share information with potential clients or recruiters. Connect with others (who can find you through your website) anywhere in the world. Simply to have a digital presence and brand.
 
 For a while I have wanted to create a personal website to communicate my story: who am I, what do I do (data science), what's my professional experience, my resume, samples of my work, maybe blog posts, and my interests outside of work.
 
