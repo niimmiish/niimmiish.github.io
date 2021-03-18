@@ -6,15 +6,13 @@ main:
     url: /
   - title: "About"
     url: /about/
-#  - title: "Projects"
-#    url: /projects/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Blog"
+    url: /year-archive/
   - title: "Resume"
   #  url: /resume/  # internal link
     url: https://niimmiish.github.io/resume1
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
