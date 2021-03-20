@@ -61,7 +61,7 @@ In my case, my GitHub user name is **`niimmiish`**. So, for my:
 - Personal website
 	- my repository is named `niimmiish.github.io` and the site sits in the `master` branch
 - Project specific website
-	- a project repository (as an example) could be named `mysampleproject` and would be located at `https://github.com/niimmiish/mysampleproject` and the site sits in the `gh-pages` branch
+	- a project repository (as an example) could be named `mysampleproject` and would be located at `https://niimmiish.github.io/mysampleproject/` and the site sits in the `gh-pages` branch
 
 
 ## Getting started with GitHub for the first time
