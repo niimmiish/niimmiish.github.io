@@ -133,7 +133,7 @@ I used the *Gem-based method* and the *Starting with `jekyll new`* sections.
 **Note:** With a Gem-based theme, some of the site directories such as `_includes`, `_layouts`, `_assets`, `_sass` are stored in the theme's gem, hidden from your direct view. Using a Gem-based theme automatically uses the information from these directories as part of the build process. If you want to override the content in any of these directories (say `_layouts`), you have to make a copy of the directory in your site structure and then make the edits you want, as explained [here](https://jekyllrb.com/docs/themes/). When you deploy your site to GitHub pages, the files in your site structure are used first, and if not found, then the theme's files are used.
 {: .notice--info}
 
-**Important:** While the Gem-based theme works locally, you will get an error when you deploy your site to GitHub Pages. You must use the remote theme for it to work on GitHub Pages. This is because only [GitHub Pages supported themes](https://pages.github.com/themes/) (which Minimal Mistakes is not) work as Gem-based. For unsupported themes you must use the Remote theme method. We will revisit later in this post. 
+**Important:** While the Gem-based theme works locally, you will get an error when you deploy your site to GitHub Pages. You must use the remote theme for it to work on GitHub Pages. This is because only [GitHub Pages supported themes](https://pages.github.com/themes/) (which Minimal Mistakes is not) work as Gem-based. For unsupported themes you must use the remote theme method. We will revisit later in this post. 
 {: .notice--warning}
 
 1. In Terminal, navigate to *ghdocs/niimmiish.github.io*
@@ -166,7 +166,7 @@ I used the *Gem-based method* and the *Starting with `jekyll new`* sections.
 6. Back in Terminal (in *niimmiish.github.io* folder), update the theme with the following command:
 
 	```
-	bundle update.
+	bundle update
 	```
 
 7. Now, you have to tell Jekyll to serve the site so that you can view it locally. Run the following command.
@@ -175,11 +175,11 @@ I used the *Gem-based method* and the *Starting with `jekyll new`* sections.
 	$ bundle exec jekyll serve
 	```
 
-	This is the command that you run to view your website locally. When you run this command, the process does not run to completion but keeps watching for changes to the files in the directory (such as your edits to your site pages or posts), and makes them available when you refresh your browser. The only file it doesn't refresh while running is the `_config.yml` file –– the site conifguration file. You have to stop (`Ctrl-C` in Terminal to stop) and restart the website (`bundle exec jekyll serve`) to see any changes you make to this file (this is because it can get very tricky to handle configuration changes while a website is running).
+	This is the command that you run to view your website locally. When you run this command, the process does not run to completion but keeps watching for changes to the files in the directory (such as your edits to site pages or posts), and makes them available when you refresh your browser. The only file it doesn't refresh while running is the `_config.yml` file –– the site conifguration file. You have to stop (`Ctrl-C` in Terminal to stop) and restart the website (`bundle exec jekyll serve`) to see any changes you make to this file (this is because it can get very tricky to handle configuration changes while a website is running).
 	
 	Agggghhh!!!....but you get an ominous **error**! You throw your hands up thinking THIS IS NEVER GOING TO WORK! But don't smash that computer just yet!
 
-	It got upset because a dependency is missing –– a gem called `webrick` that is required for Jekyll 4.0 (which I dont't really understand and don't know enough about to explain). Just run the following command in Terminal in *niimmiish.github.io* folder to add it.
+	It got upset because a dependency is missing –– a gem called `webrick` that is required for Jekyll 4.x, I think (which I dont't really understand and don't know enough about to explain). Just run the following command in Terminal in *niimmiish.github.io* folder to add it.
 
 	```
 	$ bundle add webrick
@@ -216,7 +216,7 @@ Now, with some content ready it's time to push the site to GitHub.
 1. Go to GitHub Desktop and "Create New Repository."
 2. Provide your repository name. In my case, I provide "niimmiish.github.io". Make sure the local path to the repository is correct.
 3. You can initialize the repository with a "ReadMe" file (good practice).
-4. You can leave "Git Ignore" as "None" (when we created the "niimmiish.github.io" with `jekyll new` it created a `.gitignore` file for us). Choose a "Licence" to your liking.
+4. You can leave "Git Ignore" as "None" (when we created the "niimmiish.github.io" with `jekyll new` it created a `.gitignore` file for us). Choose a "License" to your liking.
 5. Cick "Create Repository" and you will see all the files that have been changes since the last time you pushed you site files to GitHub. As this is the first time, all files are shown as new.
 6. Provide a (required) "Summary" and (optional) "Description" for the changes. In this case, since this is the first version, something like "Initial version" would suffice.
 7. Click "Commit to main" (this commits your changes locally).
