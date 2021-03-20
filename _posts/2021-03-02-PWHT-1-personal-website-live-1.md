@@ -1,7 +1,7 @@
 ---
 title:  "Finally, a personal website –– the Why and How!"
 date:   2021-03-02T12:10:00-0500
-categories: 
+categories:
   - personal website
 tags:
   - jekyll
@@ -49,4 +49,4 @@ Feel free to leave me comments if I have misstated anything or even just feedbac
 
 Happy reading!
 
-**Read Next**: [What's a static site generator and what to do with it?]({{ site.url }}/mm%20jekyll/PWHT-2-website-components)
+**Read Next**: [Personal Website Part I: What's a static site generator and what to do with it?]({{ site.url }}/mm%20jekyll/PWHT-2-website-components)
