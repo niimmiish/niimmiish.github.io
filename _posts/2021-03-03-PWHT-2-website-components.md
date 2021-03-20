@@ -78,7 +78,7 @@ Here is the **high-level view of what we are going to cover**:
 
 Feel free to let me know about anything I have misstated or comments you have.
 
-**Read Next:** [Personal Website Part II: Got git, GitHub, Ruby, and Jekyll]({{ site.url }}/mm%20jekyll/PWHT-3-gotgitjekyll/)
+**Read Next:** [Personal Website Part II: Got git, GitHub, Ruby, and Jekyll]({{ site.url }}/personal website/PWHT-3-gotgitjekyll/)
 
 
 <!------------------------------- FOOTER --------------------------------->
