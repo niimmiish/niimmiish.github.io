@@ -1,9 +1,9 @@
 ---
-title:  "Got git, GitHub, Ruby, and Jekyll"
+title:  "Personal Website Part II: Got git, GitHub, Ruby, and Jekyll"
 date:   2021-03-10T16:22:00-0500
 last_modified_at: 2021-03-18
 categories: 
-  - mm jekyll
+  - personal website
 tags:
   - github 
   - jekyll 
@@ -238,4 +238,3 @@ These really helped me.
 [Jekyll]: https://jekyllrb.com/
 [GitHub Pages]: https://pages.github.com/
 [mm]: https://mmistakes.github.io/minimal-mistakes/
-
