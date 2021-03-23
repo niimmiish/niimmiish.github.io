@@ -19,8 +19,9 @@ Due to the sensitive and proprietary nature of this work and client confidential
 
 ## Regulatory context 
 In the United States, AML efforts can be traced from the Bank Secrecy Act (BSA) of 1970, leading up to the expansive USA PATRIOT Act of 2001 passed after 9/11, to the sweeping changes of the Anti-Money Laundering Act of 2020. These and other AML regulations require every financial institution (FI) to have an AML posture providing a reasonable ability to <span style="color: #4b6584; background-color: #ecf0f1"><span style="color: #2980b9">**define, detect, decide,** and **disclose**</span> suspicious activity and targeted entities of interest</span> and typically comprises:
-- **Customer Due Diligence (CDD)**
-  - Know Your Customer (KYC)
+- **Know Your Customer (KYC)**
+  - Customer Identification Program (CIP)
+  - Customer Due Diligence (CDD)
   - Enhanced Due Diligence (EDD)
   - Customer Risk Rating (CRR)
   - Beneficial Ownership (BO)
