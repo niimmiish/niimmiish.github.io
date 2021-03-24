@@ -11,9 +11,9 @@ toc_label: "Contents"
 # Validating Sanctions Screening Systems
 *March 1, 2021*
 
-I have worked extensively in the FinReg and RegTech space, specifically the development and validation of software and technology for anti-money laundering (AML), combating financing of terrorism (CFT), and identifying fraud and trading risk and irregularities. Much of my work involves the use of automated programmatic techniques for financial transaction monitoring to detect potentially suspicious entities and behavior. 
+I have worked extensively in the FinReg and RegTech space, specifically the development and validation of software and technology for anti-money laundering (AML), combating financing of terrorism (CFT), and identifying fraud and trading risk and irregularities. Much of my work involves the use of automated programmatic techniques for financial transaction monitoring and customer risk rating to detect potentially suspicious entities and behavior.
 
-The technical aspects of my work include cleansing data, building ETL pipelines, aggregating and summarizing data, creating statistical profiles, householding, segmentation, collating and sequencing transactional activity from different data streams, entity resolution (resolving entities participating on transactions akin to master data management), text extraction, address parsing, and name matching using tools such as SQL, R, Python, and Informatica.
+The technical aspects of my work includes data preparation (exploratory analysis, visualization, building ETL pipelines, cleansing, aggregating and summarizing data, and statistical analysis),  model development, and validation. Specific to the financial services domain, I have also built solutions for householding, segmentation, collating and sequencing transactional activity from different data streams, entity resolution (resolving entities participating on transactions akin to master data management), text extraction, address parsing, and name matching.  I have used a variety of tools, but have a bias for SQL, R, Python, and Informatica.
 
 Due to the sensitive and proprietary nature of this work and client confidentiality agreements I cannot provide technical details or code I've used. Instead I discuss the regulatory drivers and conceptual aspects of development and validation.
 
