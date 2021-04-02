@@ -28,7 +28,7 @@ I am fluent in SQL, have experience with R and Python, and open to learning what
 <img src="{{ "/assets/images/IMG_6409.JPG" | absolute_url }}"
 height="50%" hspace="10" align="center">
 
-In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor, I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #2980b9"} on measuring efficiency of production units using [Data Envelopment Analysis][4]{: style="color: #686de0"}.
+In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor[^fnote2], I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #2980b9"} on measuring efficiency of production units using [Data Envelopment Analysis][4]{: style="color: #686de0"}.
 
 Enjoy browsing and thanks for visiting!
 
@@ -36,6 +36,7 @@ Enjoy browsing and thanks for visiting!
 -- -- -- --
 
 [^fnote1]: I traveled India by rail, photographing life as I saw it. I still love photography and showcase some of it on my [Instagram account][5]{: style="color: #686de0"}.
+[^fnote2]: I photographed legends of Indian classical music, freelanced with a journalist, edited a weekly TV show, and almost went to film school.
 
 [1]: https://niimmiish.github.io/resume1
 [2]: {{ site.url }}/portfolio/
