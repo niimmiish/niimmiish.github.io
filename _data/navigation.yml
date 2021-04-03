@@ -24,6 +24,8 @@ portfolio:
     children:
       - title: "Sanctions Screening"
         url: /portfolio/sanctionsscreening/
+      - title: "Customer Risk Rating"
+        url: /portfolio/customer-risk-rating/
       - title: "Transaction Monitoring"
         url: /portfolio/transactionmonitoring/
   - title: "GIS"
