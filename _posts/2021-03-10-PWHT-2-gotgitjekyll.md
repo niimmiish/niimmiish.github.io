@@ -1,5 +1,5 @@
 ---
-title:  "Personal Website Part II: Got git, GitHub, Ruby, and Jekyll"
+title:  "Personal Website – Part 2: Got git, GitHub, Ruby, and Jekyll"
 date:   2021-03-10T16:22:00-0500
 last_modified_at: 2021-03-18
 categories: 
@@ -146,7 +146,7 @@ I used the *Gem-based method* and the *Starting with `jekyll new`* sections.
 3. Run the following command to fetch and update the bundled gems.
 
 	```
-	bundle
+	$ bundle
 	``` 
 
 4. Now you have to configure the site to use the Minimal Mistakes theme. To do this you have to set the theme in your project’s `_config.yml` file. But first you need to replace the `_config.yml` with the default one from the Minimal Mistakes theme. You can copy the Minimal Mistakes default [`_config.yml`](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/_config.yml) from the Minimal Mistakes Quick-Start Guide section [Starting Fresh](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh).
@@ -166,7 +166,7 @@ I used the *Gem-based method* and the *Starting with `jekyll new`* sections.
 6. Back in Terminal (in *niimmiish.github.io* folder), update the theme with the following command:
 
 	```
-	bundle update
+	$ bundle update
 	```
 
 7. Now, you have to tell Jekyll to serve the site so that you can view it locally. Run the following command.
@@ -210,7 +210,7 @@ If you look at the contents of your equivalent of the *niimmiish.github.io* fold
 ## Adding content
 Now you can create all kinds of content using [kramdown](https://kramdown.gettalong.org) (a pure-Ruby Markdown-superset converter), which is the default Markdown renderer for Jekyll. Follow the detailed [Minimal Mistakes documentation][mm] to build out various pages and posts to your liking and further [configure](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) `_config.yml`.
 
-## Pushing to GitHub  
+## Pushing to GitHub
 Now, with some content ready it's time to push the site to GitHub. 
 
 1. Go to GitHub Desktop and "Create New Repository."
@@ -230,6 +230,9 @@ These really helped me.
 - [Developing with Jekyll for Beginners – *Tyler Etters*](https://journal.highlandsolutions.com/developing-with-jekyll-for-beginners-f29f3f3f93e3)
 - [The Definitive Guide To Installing Ruby Gems on a Mac – 
 *Moncef Belyamani*](https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/)
+
+
+**Read Next:** [Personal Website – Part 3: How to create pages and posts]({{ site.baseurl }}/personal website/PWHT-3-pages-posts/)
 
 
 <!------------------------------- FOOTER --------------------------------->
