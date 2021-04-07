@@ -49,4 +49,4 @@ Feel free to leave me comments if I have misstated anything or even just feedbac
 
 Happy reading!
 
-**Read Next**: [Personal Website Part I: What's a static site generator and what to do with it?]({{ site.url }}/personal website/PWHT-2-website-components)
+**Read Next**: [Personal Website – Part 1: What's a static site generator and what to do with it?]({{ site.baseurl }}/personal website/PWHT-1-website-components)
