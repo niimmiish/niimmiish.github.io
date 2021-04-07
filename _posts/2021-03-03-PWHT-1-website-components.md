@@ -1,5 +1,5 @@
 ---
-title:  "Personal Website Part I: What's a static site generator and what to do with it?"
+title:  "Personal Website – Part 1: What's a static site generator and what to do with it?"
 date:   2021-03-03T17:40:00-0500
 categories:
   - personal website
@@ -78,7 +78,7 @@ Here is the **high-level view of what we are going to cover**:
 
 Feel free to let me know about anything I have misstated or comments you have.
 
-**Read Next:** [Personal Website Part II: Got git, GitHub, Ruby, and Jekyll]({{ site.url }}/personal website/PWHT-3-gotgitjekyll/)
+**Read Next:** [Personal Website – Part 2: Got git, GitHub, Ruby, and Jekyll]({{ site.baseurl }}/personal website/PWHT-2-gotgitjekyll/)
 
 
 <!------------------------------- FOOTER --------------------------------->
