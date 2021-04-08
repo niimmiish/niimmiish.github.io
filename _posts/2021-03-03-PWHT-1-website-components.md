@@ -12,7 +12,7 @@ excerpt: "Reviewing the attractiveness of a static site generator like Jekyll."
 
 > <span style="color: #596275">A simple review of static v. dynamic websites, attractiveness of a static site generator like Jekyll and using a Jekyll theme to host a website on GitHub Pages.</span>
 
-To get started building my website, I had to first understand conceptually static websites and the role of static site generators. Learning about [Jekyll][], one of the most popular static site generators, meant I had to  understand a little about Ruby (at least enough to be able to install it so as to then work with Jekyll). And then, I had to understand how GitHub Pages work.
+To get started building my website, I first had to understand conceptually static websites and the role of static site generators. Learning about [Jekyll][], one of the most popular static site generators, meant I had to  understand a little about Ruby (at least enough to be able to install it so as to then work with Jekyll). And then, I had to understand how GitHub Pages work.
 
 So, this post is my attempt to explain these concepts, ending with the selection of the [Minimal Mistakes theme][mm] for building my website.
 
@@ -51,13 +51,13 @@ A static site generator simplifies this process with the main advantages being:
 Of course, this is not to say a static site is better than a dynamic site; a dynamic site has its own advantages and can provide more bells and whistles if you need them. But for a personal website that does need interactive and dynamic functionality, static site generators are a great solution.
 
 ## Enter Jekyll, Ruby, and GitHub Pages
-I found out quickly that [Jekyll][] is an extermely popular static site generator. Jekyll is built with the [Ruby](https://www.ruby-lang.org/en/) programming language. Tom Preston-Werner, co-founder of [GitHub](https://github.com), developed Jekyll as an open source program. Jekyll is the engine behind [GitHub Pages][], which allows you to host a site from your GitHub repository. So, you guessed it -- I am going to talk about this trifecta: GitHub Pages, Ruby, and Jekyll. 
+I found out quickly that [Jekyll][] is an extermely popular static site generator. Jekyll is built with the [Ruby](https://www.ruby-lang.org/en/) programming language. Tom Preston-Werner, co-founder of [GitHub](https://github.com), developed Jekyll as an open source program. Jekyll is the engine behind [GitHub Pages][], which allows you to host a site from your GitHub repository. So, you guessed it – I am going to talk about this trifecta: GitHub Pages, Ruby, and Jekyll. 
 
 
 ## Jekyll
 GitHub Pages doesn't "run" websites. We have to provide static HTML files so that the website can be viewed. This is where Jekyll comes in.
 
-Jekyll is a Ruby [gem](https://rubygems.org) and is what helps you create a static website (a Ruby gem is a library of packaged Ruby code that can be used without explicity writing out that gem's code). Jekyll takes page templates––things like footers, headers, etc. that should be shared across pages of the site (instead of tediously writing out the HTML for each page)––and combines then with other files (blog pages, about page, contact page, etc.) to generate final HTML pages for the end user to see.
+Jekyll is a Ruby [gem](https://rubygems.org) and is what helps you create a static website (a Ruby gem is a library of packaged Ruby code that can be used without explicity writing out that gem's code). Jekyll takes page templates — things like footers, headers, etc. that should be shared across pages of the site (instead of tediously writing out the HTML for each page) — and combines them with other files (blog pages, about page, contact page, etc.) to generate final HTML pages for the end user to see.
 
 I started by reviewing the [Quickstart](https://jekyllrb.com/docs/) documentation on the Jekyll website. While the Jekyll documentation is good, it isn't always easy to follow without a web development background. But the power of open source is that you can find others who shared their experiences to learn from.
 

@@ -20,7 +20,7 @@ So how do you create and organize the content for the site?
 
 
 ## Where do I click?
-A visitor to your website needs to find their way around -- these are the site navigation links, where each link leads to specific content such as **About**, **Blogs**, **Contact**, and so on.
+A visitor to your website needs to find their way around — these are the site navigation links, where each link leads to specific content such as **About**, **Blogs**, **Contact**, and so on.
 
 Depending on the path you took to build out your site structure using the Minimal Mistakes theme (see [Part 2]({{ site.baseurl }}/personal website/PWHT-2-gotgitjekyll/){: style="color: #2980b9"} in my Personal Website series), you may not have `_data/navigation.yml` and `_data/ui-text.yml` in your site folder structure (recall, the gem-based verison hides many of the theme's folders from immediate view). You can read more about this in the theme documentation [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
