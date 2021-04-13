@@ -25,7 +25,7 @@ Digging into data is called by different names — <span style="color: ">statist
 -- -- -- --
 
 # What Have I Done
-Over the past 18 years I have worked in all aspects of <font color="#c0392b">data solutions</font> --- as a data miner, data scientist, data integration engineer, product analyst, implementation consultant, and more. I was an early, core data miner at a start up that pioneered financial crime detection software (subsequently acquired by Oracle). I have led data integration design and implementation for military logistics and in-transit visibility for post 9/11 theater ops. For the past 7 years I have been freelancing as a data science consultant. My recent work has involved working with financial services firms to develop and validate compliance and regulatory models used for financial crime monitoring and prevention. For more details, take a look at my [resume][1]{: style="color: #2980b9"} and [portfolio][2]{: style="color: #2980b9"}.
+Over the past 18 years I have worked in all aspects of <font color="#c0392b">data solutions</font> --- as a data miner, data scientist, data integration engineer, product analyst, implementation consultant, and more. I was an early, core data miner at a start up that pioneered financial crime detection software (subsequently acquired by Oracle). I have led data integration design and implementation for military logistics and in-transit visibility for post 9/11 theater ops. For the past 7 years I have been freelancing as a data science consultant. My recent work has involved working with financial services firms to develop and validate compliance and regulatory models used for financial crime monitoring and prevention. For more details, take a look at my [resume][1]{: style="color: #343434"} and [portfolio][2]{: style="color: #343434"}.
 
 <img src="{{ "/assets/images/IMG_6409.JPG" | absolute_url }}"
 height="50%" hspace="10" align="center">
@@ -40,7 +40,7 @@ I step outside every now and then. I've rambled through 32 national parks with m
 -- -- -- --
 
 # The Early Years
-In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor[^fnote2], I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #2980b9"} on measuring efficiency of production units using [Data Envelopment Analysis][4]{: style="color: #686de0"}. 
+In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor[^fnote2], I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #343434"} on measuring efficiency of production units using [Data Envelopment Analysis][4].
 
 Oh, and somewhere during this time, I worked as a music transfer specialist and did a crazy amount of urban cycling dodging vehicular traffic.
 
@@ -49,7 +49,7 @@ Enjoy browsing and thanks for visiting!
 -- -- -- --
 
 # About This Website
-This website is built with the static site generator Jekyll and the Minimal Mistakes theme, and hosted on GitHub Pages. You can read about my experience building this website in a series of posts, starting [here]({{ site.baseurl }}/personal website/PWHT-0-personal-website-live-1).
+This website is built with the static site generator Jekyll and the Minimal Mistakes theme, and hosted on GitHub Pages. You can read about my experience building this website in a series of posts, starting [here]({{ site.baseurl }}/personal website/PWHT-0-personal-website-live-1){: style="color: #343434"}.
 
 I learned a lot from several blogs and websites. So, thank you all.
 
