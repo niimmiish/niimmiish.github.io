@@ -1,6 +1,7 @@
 ---
 title:  "Personal Website – Part 3: How to create pages and posts"
 date:   2021-04-07T12:30:00-0500
+show_date: true
 categories:
   - personal website
 tags:
@@ -9,8 +10,6 @@ tags:
   - posts
 excerpt: "Steps to get started with pages and posts."
 ---
-
-*April 7, 2021*
 
 > <span style="color: #596275">A brief explainer about creating content for your website.</span>
 
@@ -118,7 +117,7 @@ Example post:
 - `date:` date of the post
 - `excerpt:` brief description of the contents in the post (unique descriptions help with SEO and site search and listings)
 
-
+**Read Next:** [Personal Website – Part 4: Theme customization]({{ site.baseurl }}/personal website/PWHT-4-customization/)
 
 
 
