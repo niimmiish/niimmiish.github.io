@@ -40,7 +40,11 @@ I step outside every now and then. I've rambled through 32 national parks with m
 [Lake Itasca]: https://www.dnr.state.mn.us/state_parks/Itasca/headwaters.html
 
 <img src="{{ "/assets/images/running-nimish.jpg" | site_url }}"
-height="50%" hspace="10" align="center">
+align="center"> 
+
+{::comment}
+height="100%" hspace="10" align="center">
+{:/comment}
 
 -- -- -- --
 
