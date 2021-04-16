@@ -69,7 +69,7 @@ width="56%" hspace="20" align="right">
 
 -- -- -- --
 
-[^fnote1]: I traveled India by rail, photographing life as I saw it. I still love photography and showcase some of it on my [Instagram account][5]{: style="color: #686de0"}.
+[^fnote1]: I traveled through India by rail, photographing life as I saw it. I still love photography and showcase some of it on my [Instagram account][5]{: style="color: #686de0"}.
 [^fnote2]: I photographed legends of Indian classical music, freelanced with a journalist, edited a weekly TV show, and almost went to film school.
 
 [1]: https://niimmiish.github.io/resume1
