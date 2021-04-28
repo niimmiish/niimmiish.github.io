@@ -1,7 +1,8 @@
 ---
 title:  "Personal Website – Part 2: Got git, GitHub, Ruby, and Jekyll"
 date:   2021-03-10T16:22:00-0500
-last_modified_at: 2021-03-18
+show_date: true
+last_modified_at: 2021-04-28
 categories: 
   - personal website
 tags:
@@ -14,10 +15,15 @@ toc: true
 toc_label: Contents
 ---
 
-*March 10, 2021*
-
 > <span style="color: #596275">A simple walkthrough of setting up a GitHub account, installing GitHub Pages, Ruby, Jekyll, and Minimal Mistakes, and standing up a basic site.</span>
 
+**In this series:**<br>
+Part 1: [What's a static site generator and what to do with it?]({{ site.baseurl }}/personal website/PWHT-1-website-components/){: style="color: #4b6584"}<br>
+Part 2: [Got git, GitHub, Ruby, and Jekyll]({{ site.baseurl }}/personal website/PWHT-2-gotgitjekyll/){: style="color: #4b6584"} (*You are here*)<br>
+Part 3: [How to create pages and posts]({{ site.baseurl }}/personal website/PWHT-3-pages-posts/){: style="color: #4b6584"}<br>
+Part 4: [Theme customization]({{ site.baseurl }}/personal website/PWHT-4-customization/){: style="color: #4b6584"}
+{: .notice.info}
+{: style="background-color: #dcdde1"}
 
 If you already know your way around **git** and **GitHub**, then you can jump to the [Install Ruby](#install-ruby) section; if not it may be useful to go through this part.
 
