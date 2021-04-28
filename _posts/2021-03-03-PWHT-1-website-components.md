@@ -1,6 +1,8 @@
 ---
 title:  "Personal Website – Part 1: What's a static site generator and what to do with it?"
 date:   2021-03-03T17:40:00-0500
+show_date: true
+last_modified_at: 2021-04-28
 categories:
   - personal website
 tags:
@@ -8,9 +10,15 @@ tags:
 excerpt: "Reviewing the attractiveness of a static site generator like Jekyll."
 ---
 
-*March 3, 2021*
-
 > <span style="color: #596275">A simple review of static v. dynamic websites, attractiveness of a static site generator like Jekyll and using a Jekyll theme to host a website on GitHub Pages.</span>
+
+**In this series:**<br>
+Part 1: [What's a static site generator and what to do with it?]({{ site.baseurl }}/personal website/PWHT-1-website-components/){: style="color: #4b6584"} (*You are here*)<br>
+Part 2: [Got git, GitHub, Ruby, and Jekyll]({{ site.baseurl }}/personal website/PWHT-2-gotgitjekyll/){: style="color: #4b6584"}<br>
+Part 3: [How to create pages and posts]({{ site.baseurl }}/personal website/PWHT-3-pages-posts/){: style="color: #4b6584"}<br>
+Part 4: [Theme customization]({{ site.baseurl }}/personal website/PWHT-4-customization/){: style="color: #4b6584"}
+{: .notice.info}
+{: style="background-color: #dcdde1"}
 
 To get started building my website, I first had to understand conceptually static websites and the role of static site generators. Learning about [Jekyll][], one of the most popular static site generators, meant I had to  understand a little about Ruby (at least enough to be able to install it so as to then work with Jekyll). And then, I had to understand how GitHub Pages work.
 
