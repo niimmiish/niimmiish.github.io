@@ -2,6 +2,7 @@
 title:  "Personal Website – Part 4: Theme customization"
 date:   2021-04-10T12:30:00-0500
 show_date: true
+last_modified_at: 2021-04-28
 toc: true
 categories:
   - personal website
@@ -14,6 +15,14 @@ excerpt: "How to customize some aspects of the Minimal Mistakes theme."
 ---
 
 > <span style="color: #596275">Few tips for Minimal Mistakes theme customization.</span>
+
+**In this series:**<br>
+Part 1: [What's a static site generator and what to do with it?]({{ site.baseurl }}/personal website/PWHT-1-website-components/){: style="color: #4b6584"}<br>
+Part 2: [Got git, GitHub, Ruby, and Jekyll]({{ site.baseurl }}/personal website/PWHT-2-gotgitjekyll/){: style="color: #4b6584"}<br>
+Part 3: [How to create pages and posts]({{ site.baseurl }}/personal website/PWHT-3-pages-posts/){: style="color: #4b6584"}<br>
+Part 4: [Theme customization]({{ site.baseurl }}/personal website/PWHT-4-customization/){: style="color: #4b6584"} (*You are here*)
+{: .notice.info}
+{: style="background-color: #dcdde1"}
 
 This website is built with Jekyll and the Minimal Mistakes theme, and I host it on GitHub Pages. I author content in Markdown and incrementally build and test the site locally. Once I am satisfied, I push the changes to my GitHub repository, where the site is rebuilt and the changes are live.
 
