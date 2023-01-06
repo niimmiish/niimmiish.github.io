@@ -25,17 +25,20 @@ Digging into data is called by different names — <span style="color: ">statist
 -- -- -- --
 
 # What Have I Done
-Over the past 18 years I have worked in all aspects of <font color="#c0392b">data solutions</font> --- as a data miner, data scientist, data integration engineer, product analyst, implementation consultant, and more. I was an early, core data miner at a start up that pioneered financial crime detection software (subsequently acquired by Oracle). I have led data integration design and implementation for military logistics and in-transit visibility for post 9/11 theater ops. For the past 7 years I have been freelancing as a data science consultant. My recent work has involved working with financial services firms to develop and validate compliance and regulatory models used for financial crime monitoring and prevention. For more details, take a look at my [resume][1]{: style="color: #343434"} and [portfolio][2]{: style="color: #343434"}.
+Over the past 22 years I have worked in all aspects of <font color="#c0392b">data solutions</font> --- as a data miner, data scientist, data integration engineer, analytics engineer, product analyst, implementation consultant, and more.
+
+I was an early, core data miner at Mantas, a start up that pioneered financial crime detection software (subsequently acquired by Oracle). At SRA International, I designed and implemented data integration for the U.S. Dept. of Defense military logistics and in-transit cargo visibility for post 9/11 theater ops. From 2014 - 2021, I provided independent analytics consulting services to leading financial institutions for validating and remediating automated compliance systems used for financial crime monitoring and prevention. At Orum, a fintech startup, I led the development of strategy, framework, and data architecture for mitigating payments risk and financial crime. For more details, take a look at my [resume][1]{: style="color: #343434"} and [portfolio][2]{: style="color: #343434"}.
 
 -- -- -- --
 
 <img src="{{ "/assets/images/IMG_6409.JPG" | absolute_url }}"
-width="55%" hspace="10" align="right">
+width ="55%" hspace="10" align="right">
 
-I step outside every now and then. I've rambled through 32 national parks with my wife, mostly tenting and backpacking. I like doing destination marathons and half-marathons, bagging states (43 so far), and hitting interesting geographic extreme points ([Mt. Whitney][], [Belle Fourche][], [Lake Itasca][], [West Quoddy Head][], and many more).
+I step outside every now and then. I've rambled through 44 national parks with my wife, mostly tenting and backpacking. I like doing destination marathons and half-marathons, bagging states (visited the 48 contiguous U.S. states), and hitting interesting geographic extreme points: [Mt. Whitney][] (highest point in the lower 48), [Badwater Basin][] (lowest point in the U.S.), [Belle Fourche][] (geographic center of the 50 U.S. states), [Lake Itasca][] (headwaters of the Mississippi), [West Quoddy Head][] (easternmost point of the lower 48), and many more).
 
-[Belle Fourche]: https://www.atlasobscura.com/places/center-of-the-nation-monument
 [Mt. Whitney]: https://www.nps.gov/seki/planyourvisit/whitney.htm
+[Badwater Basin]: /assets/images/IMG_3035c_DxO.jpg
+[Belle Fourche]: https://www.atlasobscura.com/places/center-of-the-nation-monument
 [West Quoddy Head]: http://www.stateparks.com/quoddy_head_state_park_in_maine.html
 [Lake Itasca]: https://www.dnr.state.mn.us/state_parks/Itasca/headwaters.html
 
@@ -49,7 +52,7 @@ height="100%" hspace="10" align="center">
 -- -- -- --
 
 # The Early Years
-In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor[^fnote2], I got a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #343434"} on measuring efficiency of production units using [Data Envelopment Analysis][4].
+In college, I wanted to be a professional photographer[^fnote1], capturing people and their lives in their day-to-day environment. But as it happened, I became an accidental Math major. After a stint as a freelance photographer and TV series editor[^fnote2], I earned a Master's in <font color="#c0392b">Industrial Engineering</font> from <font color="#c0392b">Virginia Tech</font>, where I did my [dissertation][3]{: style="color: #343434"} on measuring efficiency of production units using [Data Envelopment Analysis][4].
 
 Oh, and somewhere during this time, I worked as a music transfer specialist and did a crazy amount of urban cycling dodging vehicular traffic.
 
@@ -58,7 +61,7 @@ Enjoy browsing and thanks for visiting!
 -- -- -- --
 
 # About This Website
-This website is built with the static site generator Jekyll and the Minimal Mistakes theme, and hosted on GitHub Pages. You can read about my experience building this website in a series of posts, starting [here]({{ site.baseurl }}/personal website/PWHT-0-personal-website-live-1){: style="color: #343434"}.
+All views expressed here are my own. This website is built with the static site generator Jekyll and the Minimal Mistakes theme, and hosted on GitHub Pages. You can read about my experience building this website in a series of posts, starting [here]({{ site.baseurl }}/personal website/PWHT-0-personal-website-live-1){: style="color: #343434"}.
 
 I learned a lot from several blogs and websites. So, thank you all.
 
