@@ -34,7 +34,7 @@ I was an early, core data miner at Mantas, a start up that pioneered financial c
 <img src="{{ "/assets/images/IMG_6409.JPG" | absolute_url }}"
 width ="55%" hspace="10" align="right">
 
-I step outside every now and then. I've rambled through 44 national parks with my wife, mostly tenting and backpacking. I like doing destination marathons and half-marathons, bagging states (visited the 48 contiguous U.S. states), and hitting interesting geographic extreme points: [Mt. Whitney][] (highest point in the lower 48), [Badwater Basin][] (lowest point in the U.S.), [Belle Fourche][] (geographic center of the 50 U.S. states), [Lake Itasca][] (headwaters of the Mississippi), [West Quoddy Head][] (easternmost point of the lower 48), and many more).
+I step outside every now and then. I've rambled through 44 national parks with my wife, mostly tenting and backpacking. I like doing destination marathons and half-marathons, bagging states (visited the 48 contiguous U.S. states), and hitting interesting geographic extreme points: [Mt. Whitney][] (highest point in the lower 48), [Badwater Basin][] (lowest point in the U.S.), [Belle Fourche][] (geographic center of the 50 U.S. states), [Lake Itasca][] (headwaters of the Mississippi), [West Quoddy Head][] (easternmost point in the lower 48), and many more).
 
 [Mt. Whitney]: https://www.nps.gov/seki/planyourvisit/whitney.htm
 [Badwater Basin]: /assets/images/IMG_3035c_DxO.jpg
